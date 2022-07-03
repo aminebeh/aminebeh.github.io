@@ -1,6 +1,6 @@
-# Aminebeh awesome blog
+# [Aminebeh awesome blog](https://aminebeh.github.io/)
 
-This blog is powered by [hugo](https://gohugo.io/about/) and hosted on [netlify]()
+This blog is powered by [hugo](https://gohugo.io/about/) and hosted on [github pages](https://pages.github.com/)
 
 
 ## Themes
